@@ -18,8 +18,8 @@ int main() {
         // As we change values of rows, their indexes stay constant, we just
         // iterate through columns.
         tmp = A[1][i];
-        A[1][i] = A[4][i];
-        A[4][i] = tmp;
+        A[1][i] = A[5][i];
+        A[5][i] = tmp;
     }
 
     // Print modified array (not required).
