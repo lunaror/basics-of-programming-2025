@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    string str = "s 2123d dADadada tadadada s ss";
+    string str = "S 2123D DADADADA TADADADA S SS";
     int counter = 0;
 
     // Here we use str.length() directly, but be aware that Vaqif m doesn't like
@@ -14,7 +14,7 @@ int main() {
     // for (int i = 0; i < length; i++) { ... }
     //
     for (int i = 0; i < str.length(); i++) {
-        if (str[i] == 'd' | str[i] == 's') {
+        if (str[i] == 'D' | str[i] == 'S') {
             counter = counter + 1;
         }
     }

@@ -4,12 +4,12 @@ using namespace std;
 
 int main() {
     int counter = 0;
-    string text = "ay baba bu bu bu eleme";
+    string text = "AY BABA BU BU BU ELEME";
 
     int length = text.length();
 
     for (int i = 0; i < length; i++) {
-        if (text[i] == 'b') {
+        if (text[i] == 'B') {
             counter++;
         }
     }
