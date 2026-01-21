@@ -33,7 +33,7 @@ int main() {
     // int Y = PROD(Q, 8) * MIN(P, 9) + SUM(T, 7) / MAX(R, 6);  // 14
     // int Y = MIN(Q, 9) * SUM(P, 8) - MAX(T, 6) / MIN(R, 7);   // 15
 
-    cout << "Y = " << Y << '\n';
+    cout << "Y = " << Y << endl;
 
     return 0;
 }

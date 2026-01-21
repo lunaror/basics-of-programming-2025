@@ -11,7 +11,7 @@ int main() {
         odd_pos_string.insert(odd_pos_string.length(), 1, given[i]);
     }
 
-    cout << odd_pos_string << '\n';
+    cout << odd_pos_string << endl;
 
     return 0;
 }

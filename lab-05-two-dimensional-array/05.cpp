@@ -26,7 +26,7 @@ int main() {
         sum += A[i][1];
     }
 
-    cout << sum << '\n';
+    cout << sum << endl;
 
     return 0;
 }

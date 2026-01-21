@@ -16,7 +16,7 @@ int main() {
     for (int i = 0; i < 7; i++) {
         cout << copied[i] << ", ";
     }
-    cout << '\n';
+    cout << endl;
 
     return 0;
 }

@@ -13,6 +13,6 @@ int main() {
     string small_str = big_str.substr(0, small_length);
 
     // Print original and modified strings.
-    cout << big_str << '\n';
-    cout << small_str << '\n';
+    cout << big_str << endl;
+    cout << small_str << endl;
 }

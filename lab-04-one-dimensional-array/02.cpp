@@ -13,7 +13,7 @@ int main() {
     }
 
     // Divide by number of elements to find arithmetical mean (ədədi orta).
-    cout << (float)sum / 8 << '\n';
+    cout << (float)sum / 8 << endl;
 
     return 0;
 }

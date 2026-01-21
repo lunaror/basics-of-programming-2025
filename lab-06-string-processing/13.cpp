@@ -15,7 +15,7 @@ int main() {
         }
     }
 
-    cout << counter << '\n';
+    cout << counter << endl;
 
     return 0;
 }

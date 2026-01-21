@@ -18,8 +18,8 @@ int main() {
         }
     }
 
-    cout << "Minimum index: " << min_index << '\n';
-    cout << "Minimum value: " << min_value << '\n';
+    cout << "Minimum index: " << min_index << endl;
+    cout << "Minimum value: " << min_value << endl;
 
     // Replace the minimum with 555.
     array[min_index] = 555;
@@ -28,7 +28,7 @@ int main() {
     for (int i = 0; i < 10; i++) {
         cout << array[i] << ", ";
     }
-    cout << '\n';
+    cout << endl;
 
     return 0;
 }

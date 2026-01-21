@@ -12,7 +12,7 @@ int main() {
         reversed += original[i]; // Append chars.
     }
 
-    cout << reversed << '\n';
+    cout << reversed << endl;
 
     return 0;
 }

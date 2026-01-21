@@ -13,7 +13,7 @@ int main() {
         even_pos_string.insert(even_pos_string.length(), 1, given[i]);
     }
 
-    cout << even_pos_string << '\n';
+    cout << even_pos_string << endl;
 
     return 0;
 }

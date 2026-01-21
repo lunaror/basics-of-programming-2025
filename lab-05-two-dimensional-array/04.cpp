@@ -34,8 +34,8 @@ int main() {
         }
     }
 
-    cout << "Sum of elements in first column: " << sum << '\n';
-    cout << "Minimum value of the second row: " << min_row_2 << '\n';
+    cout << "Sum of elements in first column: " << sum << endl;
+    cout << "Minimum value of the second row: " << min_row_2 << endl;
 
     return 0;
 }

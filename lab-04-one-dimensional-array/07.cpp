@@ -13,7 +13,7 @@ int main() {
 
     for (int i = 0; i < 20; i++) {
         if (array[i] % 7 != 0) { // Check if element is not divisible by 7.
-            cout << array[i] << '\n';
+            cout << array[i] << endl;
             product *= array[i];
             elements++;
         }
@@ -26,7 +26,7 @@ int main() {
     // the value float.
     float geometrical_mean = pow(abs(product), 1. / elements);
 
-    cout << geometrical_mean << '\n';
+    cout << geometrical_mean << endl;
 
     return 0;
 }

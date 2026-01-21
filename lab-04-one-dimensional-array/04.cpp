@@ -18,8 +18,8 @@ int main() {
         }
     }
 
-    cout << "Maximum index: " << max_index << '\n';
-    cout << "Maximum value: " << max_value << '\n';
+    cout << "Maximum index: " << max_index << endl;
+    cout << "Maximum value: " << max_value << endl;
 
     return 0;
 }

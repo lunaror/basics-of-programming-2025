@@ -31,7 +31,7 @@ int main() {
         }
     }
 
-    cout << "Total sum of first 3 columns and last 2 rows: " << sum << '\n';
+    cout << "Total sum of first 3 columns and last 2 rows: " << sum << endl;
 
     return 0;
 }

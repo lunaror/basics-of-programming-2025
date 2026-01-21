@@ -12,7 +12,7 @@ int main() {
         sum += array[i];
     }
 
-    cout << sum << '\n';
+    cout << sum << endl;
 
     return 0;
 }

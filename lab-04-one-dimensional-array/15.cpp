@@ -12,7 +12,7 @@ int main() {
         product += A[i] * B[i];
     }
 
-    cout << "Scalar product of A and B = " << product << '\n';
+    cout << "Scalar product of A and B = " << product << endl;
 
     return 0;
 }

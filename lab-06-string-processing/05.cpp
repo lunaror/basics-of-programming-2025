@@ -8,5 +8,5 @@ int main() {
     // to remove first 4 characters.
     string small_string = big_str.substr(4, big_str.length() - 4);
 
-    cout << small_string << '\n';
+    cout << small_string << endl;
 }

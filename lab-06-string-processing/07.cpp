@@ -10,7 +10,7 @@ int main() {
 
     string final = first + first_three_chars;
 
-    cout << final << "\n";
+    cout << final << endl;
 
     return 0;
 }

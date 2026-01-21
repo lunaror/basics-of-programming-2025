@@ -29,8 +29,8 @@ int main() {
         }
     }
 
-    cout << "Minimum of the third row: " << third_row_min << '\n';
-    cout << "Maximum of the fourth row: " << fourth_column_max << '\n';
+    cout << "Minimum of the third row: " << third_row_min << endl;
+    cout << "Maximum of the fourth row: " << fourth_column_max << endl;
 
     return 0;
 }

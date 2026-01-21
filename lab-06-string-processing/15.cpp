@@ -13,7 +13,7 @@ int main() {
         }
     }
 
-    cout << capital_letters << '\n';
+    cout << capital_letters << endl;
 
     return 0;
 }

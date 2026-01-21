@@ -18,7 +18,7 @@ int main() {
         }
     }
 
-    cout << "Sum of the left half: " << sum << '\n';
+    cout << "Sum of the left half: " << sum << endl;
 
     return 0;
 }

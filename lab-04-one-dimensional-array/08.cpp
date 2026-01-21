@@ -27,14 +27,14 @@ int main() {
     for (int i = 0; i < r_index; i++) {
         cout << R[i] << ", ";
     }
-    cout << "}\n";
+    cout << "}" << endl;
 
     // Print array P.
     cout << "P = { ";
     for (int i = 0; i < p_index; i++) {
         cout << P[i] << ", ";
     }
-    cout << "}\n";
+    cout << "}" << endl;
 
     return 0;
 }

@@ -22,7 +22,7 @@ int main() {
         }
     }
 
-    cout << "Sum of elements in even rows: " << sum << '\n';
+    cout << "Sum of elements in even rows: " << sum << endl;
 
     return 0;
 }

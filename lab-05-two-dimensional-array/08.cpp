@@ -22,7 +22,7 @@ int main() {
     }
 
     cout << "Arithmetical mean of the right half of the matrix: "
-         << (float)sum / elements << '\n';
+         << (float)sum / elements << endl;
 
     return 0;
 }

@@ -15,8 +15,8 @@ int main() {
         }
     }
 
-    cout << "Maximum index: " << max_index << '\n';
-    cout << "Maximum value: " << max_value << '\n';
+    cout << "Maximum index: " << max_index << endl;
+    cout << "Maximum value: " << max_value << endl;
 
     B[max_index] = 44;
 
@@ -24,7 +24,7 @@ int main() {
     for (int i = 0; i < 10; i++) {
         cout << B[i] << ", ";
     }
-    cout << '\n';
+    cout << endl;
 
     return 0;
 }

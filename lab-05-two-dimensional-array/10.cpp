@@ -19,7 +19,7 @@ int main() {
         sum += A[0][i] + A[1][i];
     }
 
-    cout << "Sum of the first two rows: " << sum << '\n';
+    cout << "Sum of the first two rows: " << sum << endl;
 
     return 0;
 }

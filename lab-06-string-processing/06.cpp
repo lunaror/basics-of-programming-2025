@@ -11,5 +11,5 @@ int main() {
 
     string final = first + last_four_chars;
 
-    cout << final << '\n';
+    cout << final << endl;
 }

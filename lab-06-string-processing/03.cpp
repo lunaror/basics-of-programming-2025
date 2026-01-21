@@ -13,5 +13,5 @@ int main() {
         }
     }
 
-    cout << new_str << '\n';
+    cout << new_str << endl;
 }

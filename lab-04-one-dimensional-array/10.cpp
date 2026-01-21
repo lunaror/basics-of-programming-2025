@@ -13,7 +13,7 @@ int main() {
         }
     }
 
-    cout << even_elements << '\n';
+    cout << even_elements << endl;
 
     return 0;
 }

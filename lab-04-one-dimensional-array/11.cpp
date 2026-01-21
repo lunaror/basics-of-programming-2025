@@ -23,7 +23,7 @@ int main() {
     // make the value float.
     float geometrical_mean = pow(product, 1. / elements);
 
-    cout << geometrical_mean << '\n';
+    cout << geometrical_mean << endl;
 
     return 0;
 }

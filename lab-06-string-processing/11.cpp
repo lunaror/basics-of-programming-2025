@@ -8,7 +8,7 @@ int main() {
 
     string resulting = first_str.substr(5, 3) + second_str;
 
-    cout << resulting << '\n';
+    cout << resulting << endl;
 
     return 0;
 }

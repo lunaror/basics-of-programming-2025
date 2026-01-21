@@ -17,7 +17,7 @@ int main() {
 
     // Find arithmetical mean. We use (float) before the variable to make the
     // result float.
-    cout << (float)sum / elements << '\n';
+    cout << (float)sum / elements << endl;
 
     return 0;
 }

@@ -18,7 +18,7 @@ int main() {
         y = a * cos(b * t);
     }
 
-    cout << "y = " << y << '\n';
+    cout << "y = " << y << endl;
 
     return 0;
 }

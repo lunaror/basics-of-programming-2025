@@ -25,7 +25,7 @@ int main() {
         for (uint j = 0; j < 8; j++) {
             cout << A[i][j] << ' ';
         }
-        cout << '\n';
+        cout << endl;
     }
 
     return 0;

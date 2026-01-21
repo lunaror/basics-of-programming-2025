@@ -12,14 +12,14 @@ int main() {
     float y = (2 * cos(x - M_PI / 6.)) / ((1. / 2) + pow(sin(t), 2));
     float w = y + pow(z, 2) / (3 + pow(z, 2) / 5.);
 
-    cout << "x = " << x << '\n';
-    cout << "t = " << t << '\n';
-    cout << "z = " << z << '\n';
+    cout << "x = " << x << endl;
+    cout << "t = " << t << endl;
+    cout << "z = " << z << endl;
 
-    cout << "---------" << '\n';
+    cout << "---------" << endl;
 
-    cout << "y = " << y << '\n';
-    cout << "w = " << w << '\n';
+    cout << "y = " << y << endl;
+    cout << "w = " << w << endl;
 
     return 0;
 }

@@ -16,7 +16,7 @@ int main() {
         }
     }
 
-    cout << (float)sum / (3 * 4) << '\n';
+    cout << (float)sum / (3 * 4) << endl;
 
     return 0;
 }

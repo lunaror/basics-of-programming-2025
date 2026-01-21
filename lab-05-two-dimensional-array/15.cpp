@@ -36,9 +36,9 @@ int main() {
         }
     }
 
-    cout << "Minimum of the top two rows: " << top_2_rows_min << '\n';
+    cout << "Minimum of the top two rows: " << top_2_rows_min << endl;
     cout << "Minimum of the first three columns: " << first_3_columns_min
-         << '\n';
+         << endl;
 
     return 0;
 }

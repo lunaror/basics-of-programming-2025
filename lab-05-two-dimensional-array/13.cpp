@@ -36,8 +36,8 @@ int main() {
         }
     }
 
-    cout << "Upper half minimum: " << upper_half_min << '\n';
-    cout << "Lower half minimum: " << lower_half_min << '\n';
+    cout << "Upper half minimum: " << upper_half_min << endl;
+    cout << "Lower half minimum: " << lower_half_min << endl;
 
     return 0;
 }
