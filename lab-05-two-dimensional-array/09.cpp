@@ -14,7 +14,7 @@ int main() {
     };
 
     int tmp;
-    for (uint i = 0; i < 8; i++) {
+    for (int i = 0; i < 8; i++) {
         // As we change values of rows, their indexes stay constant, we just
         // iterate through columns.
         tmp = A[1][i];
@@ -23,8 +23,8 @@ int main() {
     }
 
     // Print modified array (not required).
-    for (uint i = 0; i < 7; i++) {
-        for (uint j = 0; j < 8; j++) {
+    for (int i = 0; i < 7; i++) {
+        for (int j = 0; j < 8; j++) {
             cout << A[i][j] << ' ';
         }
         cout << '\n';

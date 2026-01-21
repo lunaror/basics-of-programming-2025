@@ -8,7 +8,7 @@ int main() {
     int sum = 0;
 
     // Add value of every element of the array to the sum.
-    for (uint i = 0; i < 10; i++) {
+    for (int i = 0; i < 10; i++) {
         sum += array[i];
     }
 
